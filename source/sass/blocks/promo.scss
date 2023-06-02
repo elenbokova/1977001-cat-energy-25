@@ -1,13 +1,13 @@
 .promo {
   padding-top: 27px;
   color: $basic-white;
-  background-image: url("/img/cat-bg-mobile.jpg"), linear-gradient(to right, $background-green-start, $background-green-end);
+  background-image: url("../img/cat-bg-mobile.jpg"), linear-gradient(to right, $background-green-start, $background-green-end);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: auto 302px;
 
   @media (min-resolution: 2dppx) {
-    background-image: url("/img/cat-bg-mobile@2x.jpg"), linear-gradient(to right, $background-green-start, $background-green-end);
+    background-image: url("../img/cat-bg-mobile@2x.jpg"), linear-gradient(to right, $background-green-start, $background-green-end);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: auto 302px;
