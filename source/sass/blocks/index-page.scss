@@ -5,7 +5,7 @@
       position: absolute;
       top: 0;
       left: 50%;
-      background-image: url("/img/cat-bg-desktop.jpg"), linear-gradient(#64a73c, #64a73c);
+      background-image: url("../img/cat-bg-desktop.jpg"), linear-gradient(#64a73c, #64a73c);
       background-repeat: no-repeat;
       background-position: right center, center;
       width: 50%;
@@ -13,7 +13,7 @@
       max-width: 720px;
 
       @media (min-resolution: 2dppx) {
-        background-image: url("/img/cat-bg-desktop@2x.jpg"), linear-gradient(#64a73c, #64a73c);
+        background-image: url("../img/cat-bg-desktop@2x.jpg"), linear-gradient(#64a73c, #64a73c);
         background-size: cover;
         width: 50%;
       }
