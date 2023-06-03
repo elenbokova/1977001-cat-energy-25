@@ -1,4 +1,4 @@
-# Личный проект [«Кэт энерджи»](https://elenbokova.github.io/1977001-cat-energy-25)
+# Личный проект [«Кэт энерджи»](https://elenbokova.github.io/1977001-cat-energy-25/build)
 
 * Студент: [Елена Бокова](https://htmlacademy.ru//profile/id1977001).
 
